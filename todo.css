@@ -1,0 +1,53 @@
+﻿h1 {
+	font-size: 32px;
+	margin: 0px;
+	padding: 4px;
+	text-align: center;
+	color: #008080;
+ }
+
+hr {
+	margin: 32px;
+	display: block;
+ }
+
+div.login_field {
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+
+ }
+
+th.login_field {
+	width: 150px;
+	text-align: left;
+	padding: 8px;
+	color: #BDB76B;
+	background-color: #FFF8DC;
+ }
+
+td.login_field {
+	padding: 8px;
+ }
+
+td.login_button {
+	text-align: center;
+	padding: 8px;
+ }
+table.toolbar {
+	margin-top: 16px;
+	margin-bottom: 32px;
+}
+
+table.list th {
+	width: 150px;
+	text-align: left;
+	padding: 8px;
+	color: #ffffff;
+	background-color: #5555aa;
+}
+
+table.list td {
+	background-color: #bbbbff;
+	padding: 8px;
+}
